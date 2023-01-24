@@ -391,7 +391,7 @@ const mockImageIsDraggable: IMockDataIsSelectedType[] = [
         <div className="text-white pt-2">Tente arrastar a imagem</div>
         <img
           className="text-white text-md py-2 object-cover"
-          src="/mock.webp"
+          src="./mock.webp"
           width={720}
           height={960}
           draggable
@@ -408,7 +408,7 @@ const mockImageIsDraggable: IMockDataIsSelectedType[] = [
         <div className="text-white pt-2">Tente arrastar a imagem</div>
         <img
           className="text-white text-md py-2 object-cover"
-          src="/mock.webp"
+          src="./mock.webp"
           width={720}
           height={960}
           draggable={false}
